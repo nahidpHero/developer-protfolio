@@ -13,10 +13,12 @@ section{
 }
 .half-width{
     width:50%;
+    margin: 50px;
 
 }
 #img1{
-    height: 500px;
+    height: 450px;
+    margin:50px;
 }
 button{
     height: 50px;
@@ -35,4 +37,10 @@ a{
 .top-banner{
    background-image: url(images/top-banner.png); 
    background-repeat:no-repeat;
+}
+
+.drim-big{
+    background-image: url(images/dream-bg.png);
+    background-repeat:no-repeat;
+    background-position: right;
 }
